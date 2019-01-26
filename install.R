@@ -1,0 +1,6 @@
+install.packages("rpart")
+install.packages("caret")
+install.packages("leaps")
+install.packages("glmnet")
+install.packages("ggplot2")
+install.packages("reshape2")
